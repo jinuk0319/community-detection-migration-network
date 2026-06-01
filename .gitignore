@@ -1,0 +1,30 @@
+# Python environment and caches
+.venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+CSI500_Module3_Cho2.ipynb
+
+# Raw data and large source files
+*.csv
+*.txt
+!requirements.txt
+*.zip
+COUNTY_2019_US_SL050_2019-11-13_15-15-56-579/
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+
+# Local editor/assistant metadata
+.agents/
+.codex/
+AGENTS.md
+*:Zone.Identifier
+
+# OS/editor noise
+.DS_Store
+Thumbs.db

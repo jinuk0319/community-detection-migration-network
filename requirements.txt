@@ -1,0 +1,10 @@
+numpy
+pandas
+networkx
+matplotlib
+python-louvain
+geopandas
+igraph
+seaborn
+scipy
+scikit-learn
