@@ -4,7 +4,7 @@
 
 This project analyzes county-to-county migration flows in the United States as a weighted network. Counties are represented as nodes, migration flows are represented as edges, and community detection is used to identify regional migration structures.
 
-The main analysis is contained in `Community Detection.ipynb`.
+The main analysis is contained in `community_detection_migration_network.ipynb`.
 
 ## Research Question
 
